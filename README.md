@@ -1,4 +1,4 @@
-# LBE2020
+# LBE ALPRO 2020
 <?-- Lab Based Education 2020 Alpro --?>
 
 ### Minggu 1
