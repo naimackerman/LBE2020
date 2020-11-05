@@ -1,6 +1,6 @@
 # VSCode Hotkeys
 
-Selengkapnya di : *for windows*
+Selengkapnya di : <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf"> *for windows* </a>
 <br>Beberapa yang sering dipakai :
 - `alt`+`shift`+`f`: rapiin kodingan
 - `ctrl`+`spacebar`: trigger intellisense (fitur vscode untuk __code completion__, __parameter info__, __quick info__, __member lists__, dst. beda2 tiap bahasa. contoh: di html, bisa utk liat list atribut)
