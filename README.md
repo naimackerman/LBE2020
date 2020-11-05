@@ -5,7 +5,7 @@
 - HMTL (*Hyper Text Markup Language*)
   - Tag
   - Attribute
-- <a href="https://github.com/naimackerman/LBE2020/blob/master/tips.md"> VSCode Hotkeys </a>
+- <a href="https://github.com/naimackerman/LBE2020/blob/master/tips.md"> VSCode Hotkeys </a
 
 ### Minggu 2
 - CSS (*Cascading Style Sheets*)
