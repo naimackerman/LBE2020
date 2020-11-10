@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#home {
+    padding: 300px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(bg-image1.jpg);
+    font-size: 45px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#aboutme {
+    background-color: cornsilk;
+}
+
+.data {
+    padding: 450px 150px;
+    font-size: 28px;
+    text-align: justify;
+}
+
+.gambar {
+    float: right;
+    margin: 400px 150px 300px 150px;
+    border: 15px solid blanchedalmond;
+}
+
+#education {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(edu.jpg);
+    background-size: cover;
+    position: relative;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#organization {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(forest.jpg);
+    background-size: cover;
+    position: relative;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#training {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(train.jpg);
+    background-size: cover;
+    position: relative;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#contact {
+    padding: 200px;
+    text-align: center;
+    background-color: slategray;
+}
+
+#contact img {
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+}
