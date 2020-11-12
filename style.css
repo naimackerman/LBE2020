@@ -89,6 +89,14 @@ body {
     background-repeat: no-repeat;
 }
 
+#visitor {
+    background-color: cornsilk;
+}
+
+#visitor .data {
+    text-align: center
+}
+
 #contact {
     padding: 200px;
     text-align: center;
